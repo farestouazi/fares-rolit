@@ -1,7 +1,6 @@
 # fares-rolit
 Rolit, an ancient table game brought back to life in a new form
 ---------------------------------------------------------------
-
 ##################################################################
 
 This file was generated on 15/05/2025 by FARES TOUAZI.  
