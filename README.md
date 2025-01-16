@@ -66,6 +66,7 @@ FILE OVERVIEW
    C. LICENSE.txt
       Description: project license
 
+
 2. List of files compressed in rolit.zip:
 
    A. rolit.py
@@ -80,6 +81,7 @@ FILE OVERVIEW
 
 IMPORTANT !!! :
    - fltk.py file must be copied to the rolit folder after decompression.
+
 
 4. New files may appear in the extraction folder after running the rolit.py script:
 
