@@ -80,6 +80,7 @@ FILE OVERVIEW
 
 
 IMPORTANT !!! :
+-
    - fltk.py file must be copied to the rolit folder after decompression.
 
 
