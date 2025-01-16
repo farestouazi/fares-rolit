@@ -79,8 +79,8 @@ FILE OVERVIEW
       Description: copy of the project license file
 
 
-### IMPORTANT !!! :
-#### - fltk.py file must be copied to the rolit folder after decompression.
+##IMPORTANT !!! :
+###- fltk.py file must be copied to the rolit folder after decompression.
 
 
 4. New files may appear in the extraction folder after running the rolit.py script:
