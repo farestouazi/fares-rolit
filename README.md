@@ -32,7 +32,7 @@ Before you begin, make sure your computer meets the following requirements:
    - If not, you can download it here: https://www.python.org/downloads/  
 2. Required Python libraries:  
    - random, copy, time, json, pyautogui  
-   - the fltk library will be imported from the fltk.py file that you need to download from the following link: https://antoinemeyer.frama.io/fltk/index.html  
+   - the fltk library will be imported from the fltk.py file that you need to download from the following link: https://antoinemeyer.frama.io/fltk/index.html
 
 ------------  
 INSTALLATION  
@@ -77,7 +77,11 @@ FILE OVERVIEW
    C. LICENSE.txt
       Description: copy of the project license file
 
-3. New files may appear in the extraction folder after running the rolit.py script:
+
+IMPORTANT !!! :
+   - fltk.py file must be copied to the rolit folder after decompression.
+
+4. New files may appear in the extraction folder after running the rolit.py script:
 
    A. config.json
       Description: configuration file
